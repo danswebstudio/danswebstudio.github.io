@@ -257,11 +257,7 @@ footer .col-lg-6 {
 }
 
 .gtco-banner-area a:hover, .gtco-feature a:hover, .gtco-features a:hover, .gtco-news .owl-carousel .card a:hover, #contact .submit-button:hover {
-	  background-image: -moz-linear-gradient(0deg, #38eaf9 0%, #06c6f9 100%);
-  background-image: -webkit-linear-gradient(0deg, #38eaf9 0%, #06c6f9 100%);
-  background-image: -ms-linear-gradient(0deg, #38eaf9 0%, #06c6f9 100%);
-  padding-left:30px;
-  padding-right:30px;
+
 }
 
 
