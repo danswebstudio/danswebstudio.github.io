@@ -1,11 +1,12 @@
 ---
-title: MayEd Homes
+title: Media Renovations
+link: https://mediarenovations.com/
 subtitle: Website Design
 layout: default
-modal-id: 3
-img: mayed-homes.png
-thumbnail: mayed-homes.png
+modal-id: 2
+img: media-renovations.png
+thumbnail: media-renovations.png
 alt: image-alt
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Media Renovations is a digital marketing agency which specialise in managing social media  accounts and running campaigns for property.
 
 ---

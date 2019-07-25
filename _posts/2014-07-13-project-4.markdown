@@ -1,11 +1,12 @@
 ---
-title: The Light Outreach
+title: Diaspora Focus Consultancy
+link: http://www.diasporafocus.com/
 subtitle: Website Design
 layout: default
-modal-id: 1
-img: tlo.png
-thumbnail: tlo.png
+modal-id: 4
+img: diaspora.png
+thumbnail: diaspora.png
 alt: image-alt
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: A consultancy firm based in Sierra Leone.
 
 ---
