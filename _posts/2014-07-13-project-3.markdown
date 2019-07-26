@@ -7,5 +7,5 @@ modal-id: 3
 img: mayed-homes.png
 thumbnail: mayed-homes.png
 alt: image-alt
-description: MayEd Homes is an interior design company based in Ghana.
+description: MayEd Homes is an home retailor and interior design company based in Ghana.
 ---
