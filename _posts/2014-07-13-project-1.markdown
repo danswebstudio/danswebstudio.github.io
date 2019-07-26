@@ -1,7 +1,7 @@
 ---
 title: The Light Outreach
 link: http://thelightoutreach.org.uk/
-subtitle: Website Design
+subtitle: Charity
 layout: default
 modal-id: 1
 img: tlo.png

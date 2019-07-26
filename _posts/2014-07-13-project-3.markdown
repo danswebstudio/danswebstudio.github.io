@@ -1,7 +1,7 @@
 ---
 title: MayEd Homes
 link: http://mayedhomes.com/
-subtitle: Website Design
+subtitle: Home Retail
 layout: default
 modal-id: 3
 img: mayed-homes.png
